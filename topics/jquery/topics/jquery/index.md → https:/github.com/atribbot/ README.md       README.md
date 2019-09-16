@@ -1,5 +1,4 @@
----
-created_by: John Resig
+---https://github.com/atribbot/reated_by: John Resig
 display_name: jQuery
 github_url: https://github.com/jquery/jquery
 logo: jquery.png
